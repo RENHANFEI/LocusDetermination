@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">RenHanfei_Locus</string>
+
+    <!--Main Activity-->
+    <string name="record_btn">Record</string>
+    <string name="history_btn">History</string>
+    <string name="map_btn">Map Test</string>
+
+    <!--Record Activity-->
+    <string name="delete_all_btn">Delete All Records</string>
+
+    <!--Record Items Activity-->
+    <string name="plot_btn">Plot</string>
+    <string name="filter_btn">Filtered Data</string>
+    <string name="delete_btn">Delete This Record</string>
+
+    <!--Filtered Items Activity-->
+    <string name="back_btn">Back</string>
+    <string name="update_btn">Update Filtering</string>
+
+    <!--Record Activity-->
+    <string name="start_record_btn">Start</string>
+    <string name="stop_record_btn">Stop</string>
+    <string name="show_records_btn">Show Records</string>
+    <string name="gps_info">GPS Data</string>
+    <string name="acc_info">Accelerometer Data</string>
+    <string name="record_info">Record Status</string>
+    <string name="default_gps_info">GPS Data</string>
+    <string name="default_acc_info">Accelerometer Data</string>
+    <string name="default_record_info">Not Start\n</string>
+    <string name="default_record_time">0s</string>
+
+    <!--Plot Activity-->
+    <string name="plot_raw_btn">Raw Data</string>
+    <string name="plot_filtered">Filtered Data</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

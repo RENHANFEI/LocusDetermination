@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">RenHanfei_Errors</string>
+    <string name="title_activity_default_map">Default Map</string>
+    <string name="title_activity_specified_location_map">Specified Location</string>
+    <string name="title_activity_current_location">Current Location</string>
+
+    <!--Main Menu-->
+    <string name="gps_btn">GPS Experiment</string>
+    <string name="acc_btn">Accelerometer Experiment</string>
+    <string name="analysis_btn">Measurement Analysis</string>
+    <string name="locus_btn">Locus Determination</string>
+
+    <!--***-->
+    <!--GPS Experiment-->
+    <!--***-->
+
+    <!--Main Activity-->
+    <string name="goto_default_map">Default Map</string>
+    <string name="goto_specified_location">Map At Specified Location</string>
+    <string name="goto_current_location">Get Current Location</string>
+    <string name="goto_records_history">Records History</string>
+
+    <!--Current Location-->
+    <string name="n_button">North</string>
+    <string name="s_button">South</string>
+    <string name="e_button">East</string>
+    <string name="w_button">West</string>
+    <string name="record_button">Record</string>
+    <string name="show_records">Show Records</string>
+    <string name="geo_info">Geographical Infomation</string>
+    <string name="position_info">Position</string>
+
+    <!--Menu-->
+    <string name="action_settings">Settings</string>
+
+    <!--Records Activity-->
+    <string name="delete_all">DELETE ALL RECORDS</string>
+    <string name="title_activity_current_location_map">CurrentLocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="draw_result">DRAW</string>
+    <string name="analysis_result">ANALYSIS</string>
+
+    <!--Location Plot Activity-->
+    <string name="back_btn">Back</string>
+    <string name="map_btn">Map</string>
+    <string name="title_activity_map_plot">Map</string>
+
+    <!--Map Plot Activity-->
+    <string name="diagram_btn">Diagram</string>
+
+
+    <!--***-->
+    <!--Accelerometer Experiment-->
+    <!--***-->
+    <!--Main Activity-->
+    <string name="sensor_test_btn">Sensor Test</string>
+    <string name="trace_record_btn">Trace Record</string>
+    <string name="trace_history_btn">Trace History</string>
+    <string name="map_test_btn">Map Test</string>
+
+    <!--Trace Record Activity-->
+    <string name="start_record_btn">Start</string>
+    <string name="stop_record_btn">Stop</string>
+    <string name="show_records_btn">Show Records</string>
+    <string name="acc_data">Accelerometer Data</string>
+    <string name="record_condition">Record Condition</string>
+    <string name="record_notstart">Not Start</string>
+    <string name="record_time_not_start">0s</string>
+    <string name="record_instruction">Instruction</string>
+    <string name="record_explanation">It is a 20m walking test.\n\nForward: - y  Left: + x\n\nGiven the sensibility, you may need to shake the phone first when starting a new record.</string>
+    <string name="x_plus">+X</string>
+    <string name="x_minus">-X</string>
+    <string name="y_plus">+Y</string>
+    <string name="y_minus">-Y</string>
+
+    <!--Accelerometer Records Activity-->
+    <!--<string name="analysis_result">Analysis</string>-->
+    <!--<string name="delete_all">Delete All Records</string>-->
+
+    <!--Record Items Activtiy-->
+    <string name="delete_record">Delete</string>
+    <!--<string name="title_activity_maps">Map</string>-->
+    <string name="plot_btn">Plot</string>
+
+    <!--Measurement Analysis-->
+    <string name="analysis_title">Measurement Noise \nCovariance Matrix</string>
+    <string name="default_matrix">
+        0.0000000  0.0000000  0.0000000  0.0000000\n0.0000000  0.0000000  0.0000000  0.0000000\n0.0000000  0.0000000  0.0000000  0.0000000\n0.0000000  0.0000000  0.0000000  0.0000000
+    </string>
+
+</resources>

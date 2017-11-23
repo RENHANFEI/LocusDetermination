@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorEast">#E23D37</color>
+    <color name="colorSouth">#7FC7EF</color>
+    <color name="colorWest">#C2D94E</color>
+    <color name="colorNorth">#FFE460</color>
+    <color name="colorBackground">#F0F0F0</color>
+    <color name="colorGrid">#B0B0B0</color>
+    <color name="colorAxis">#000000</color>
+    <color name="colorOutline">#F0F0F0</color>
+
+
+</resources>
